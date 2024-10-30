@@ -1,0 +1,3 @@
+C:/Users/gitis/OneDrive/Desktop/RunGame/build/CMakeFiles/runner.dir
+C:/Users/gitis/OneDrive/Desktop/RunGame/build/CMakeFiles/edit_cache.dir
+C:/Users/gitis/OneDrive/Desktop/RunGame/build/CMakeFiles/rebuild_cache.dir

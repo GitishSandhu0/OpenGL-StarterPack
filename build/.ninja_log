@@ -1,0 +1,4 @@
+# ninja log v6
+3	1813	7520272869365792	CMakeFiles/runner.dir/src/main.c.obj	659991db19e6680d
+39	6708	7520272869717735	CMakeFiles/runner.dir/src/glad.c.obj	9b3dc74f09aea9b3
+6713	7342	7520272936429388	runner.exe	50c909b53cb58d12

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/gitis/OneDrive/Desktop/RunGame/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/runner.dir/includes_C.rsp -g -o CMakeFiles\\runner.dir\\src\\main.c.obj -c C:\\Users\\gitis\\OneDrive\\Desktop\\RunGame\\src\\main.c",
+  "file": "C:/Users/gitis/OneDrive/Desktop/RunGame/src/main.c",
+  "output": "CMakeFiles/runner.dir/src/main.c.obj"
+},
+{
+  "directory": "C:/Users/gitis/OneDrive/Desktop/RunGame/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/runner.dir/includes_C.rsp -g -o CMakeFiles\\runner.dir\\src\\glad.c.obj -c C:\\Users\\gitis\\OneDrive\\Desktop\\RunGame\\src\\glad.c",
+  "file": "C:/Users/gitis/OneDrive/Desktop/RunGame/src/glad.c",
+  "output": "CMakeFiles/runner.dir/src/glad.c.obj"
+}
+]
